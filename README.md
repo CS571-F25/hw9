@@ -104,7 +104,7 @@ BadgerChat is a public forum, so users should be able to view posts without an a
 ![](_figures/step6.png)
 
 ### Other Notes
-You should now be able to interact with BadgerChat through both your phone and the web! 🥳
+You should now be able to interact with BadgerChat through both your phone (via this HW) and the web (via HW6)! 🥳
 
 ### Submission Details
 In addition to your code, **you will also need to submit a video recording of your app**. Like the demo video, it should cover all the tasks below. Please thoroughly demonstrate all tasks to showcase the capabilities of your app.
