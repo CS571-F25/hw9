@@ -49,7 +49,7 @@ A brief overview of the API is provided below. Further details can be found in `
 ### 1. Login & Register
 Provide a login screen that allows the user to login with an existing username and pin. Upon an incorrect combination, display something along the lines of "Incorrect login, please try again."
 
-Furthermore, provide a registration screen. This screen should allow the user to register an account with a username, pin, and repeated pin. A warning should be shown that says "Please enter a pin" when a pin is missing, "pins do not match" when the pins do not match, and "a pin must be 7 digits" when it is not exactly 7 digits. This can either be done in real-time or upon clicking "register". Upon registration, if the username is already taken, inform the user.
+Furthermore, provide a registration screen. This screen should allow the user to register an account with a username, pin, and repeated pin. A warning should be shown that says "Please enter a pin" when a pin is missing, "pins do not match" when the pins do not match, and "a pin must be 7 digits" when it is not exactly 7 digits. This can either be done in real-time or upon clicking "register". Upon registration, if the username is already taken, inform the user. Also, the username cannot be empty; if so, have an alert of "you must have a username!". 
 
 The user should be able to switch back and forth between the login and registration screens using the informal "switch" navigation. Upon *either* logging in or registering, the user should be directed to the BadgerChat landing page.
 
