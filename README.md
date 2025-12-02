@@ -118,7 +118,7 @@ Add a navigation screen to the drawer for the user to logout. Upon logout, the J
 
 ### 6. Anonymous Access
 
-BadgerChat is a public forum, so users should be able to view posts without an account. Add a "Continue As Guest" option to the login screen. When continuing as guest, the user should be able to view posts, but not add a post. Furthermore, instead of logging the user out, re-route them **to the signup screen** -- we will try to [convert our guest into a user](https://seodigitalgroup.com/what-is-a-conversion/).
+BadgerChat is a public forum, so users should be able to view posts without an account. Add a "Continue As Guest" option to the login screen. When continuing as guest, the user should be able to view posts, but not add a post. Furthermore, instead of logging the user out, re-route them **to the signup screen** since we will try to [convert our guest into a user](https://seodigitalgroup.com/what-is-a-conversion/). **Also, click on the "signup" button, and show the registration page, as shown in the homework demonstration video.**
 
 ![](_figures/step6.png)
 
